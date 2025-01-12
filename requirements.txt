@@ -1,0 +1,6 @@
+# This file is for any Python dependencies that might be needed for auxiliary scripts.
+# The main application is Node.js based and uses package.json for dependencies.
+
+requests==2.26.0
+pillow==8.3.1
+
